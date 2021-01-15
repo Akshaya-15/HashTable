@@ -1,5 +1,7 @@
 package HashTable;
 
+//UC1 
+
 public class MyMapNode<K, V> implements INode<K> {
 	K key;
 	V value;

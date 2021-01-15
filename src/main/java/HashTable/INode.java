@@ -1,5 +1,6 @@
 package HashTable;
 
+//UC1
 public interface INode<K> {
 		K getKey();
 

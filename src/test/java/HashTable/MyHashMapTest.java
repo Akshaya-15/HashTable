@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class MyHashMapTest {
-	
+	//Uc1 find frequency of given word in sentence
 	@Test
 	public void givenASentenceWhenWordsAreAddedToListShouldReturnWordFrequency() {
 		String sentence = "To be or not to be";
